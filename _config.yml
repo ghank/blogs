@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: blogs
-subtitle: record life.
-description:
+title: 理想和信仰的自留地
+subtitle: 知识使人自由.
+description: 记录点滴生活。
 author: hank zhang
-language: chinese
-timezone:
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://ghank.github.io/ghank.github.io
-root: /ghank.github.io/
+url: https://ghank.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
